@@ -1,0 +1,23 @@
+/* .rdt_Table,
+.hFVRPL,
+.ecDzaP,
+.fhaVWy,
+.sc-hHEiqL,
+.bIRQQN,
+.kofSid,
+.rdt_TableCell,
+.rdt_TableCol,
+.iCxiXr,
+.rdt_Pagination {
+  background-color: #f7fafc !important;
+} */
+
+.rdt_TableBody {
+  overflow-y: visible !important;
+  overflow: visible !important;
+}
+
+.react-datepicker-wrapper {
+  max-width: 100% !important;
+  width: 100% !important;
+}
